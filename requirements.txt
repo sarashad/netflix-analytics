@@ -1,0 +1,9 @@
+pandas 
+
+jupyter 
+
+matplotlib 
+
+seaborn 
+
+openpyxl 
